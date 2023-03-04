@@ -1,4 +1,4 @@
-<h1>Hi, I'm Arthur, an <a href="www.linkedin.com/in/arthurdraine">IT Professional</a>☺</h1>
+<h1>Hi, I'm Arthur, an <a href="https://www.linkedin.com/in/arthur-draine-876709126/">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
