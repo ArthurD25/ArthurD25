@@ -9,7 +9,6 @@
 - <b>Microsoft Azure</b>
   - [Configuring Active Directory within Azure VMs](https://github.com/ArthurD25/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/ArthurD25/azure-network-protocols)
-- <b>Data Analysis</b>
 
 <h2>🤳Connect with me:</h2>
 
